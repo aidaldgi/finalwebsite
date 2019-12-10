@@ -1,0 +1,13 @@
+.lead{
+  text-align:inherit;
+  font-size: 400%;
+  }
+
+.hero-background-img {
+  background-image: url("son.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+  padding-top:100px;
+  padding-bottom:100px;
+}
